@@ -31,11 +31,15 @@ ul {
 }
 
 a:link {
-  color: #5f9ea0
+  color: #000000;
 }
 
 a:hover {
-  text-decoration: #ffffff;
+  color: #ffffff;
+}
+
+a:visited {
+  color: #f0ffff;
 }
 
 p {
